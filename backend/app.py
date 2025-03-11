@@ -1,7 +1,7 @@
 from flask import Flask, jsonify
 from flask_cors import CORS
 import mysql.connector
-
+#import
 app = Flask(__name__)
 CORS(app)
 # Database Connection
